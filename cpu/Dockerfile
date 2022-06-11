@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.15.2-py3
+FROM tensorflow/tensorflow:2.9.1
 
 RUN pip3 install --upgrade pip
 
